@@ -1,3 +1,6 @@
+# Autor
+esalcedo
+
 # CallCenterMvnTest
 Simula un call center con número de llamadas y duración con diferentes tipos de agentes de servicios.
 
