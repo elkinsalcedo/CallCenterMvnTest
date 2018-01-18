@@ -8,6 +8,9 @@ Simula un call center con número de llamadas y duración con diferentes tipos d
  - Dar alguna solución sobre qué pasa con una llamada cuando no hay ningún empleado libre : Se imprime un mensaje "We're sorry, there is not service agents available at the moment.... music, please wait."
  - Dar alguna solución sobre qué pasa con una llamada cuando entran más de 10 llamadas concurrentes : La llamada se almacena en cola, para ser respondida por el primer agente que quede disponible.
 
+# Ajecutar Proyecto
+mvn clean install o ejecutar el CallCenterMvnAppTest.java con  runAs Junit Test
+
 # Resultado de prueba
 
 All Service agents are available... waiting call !!!

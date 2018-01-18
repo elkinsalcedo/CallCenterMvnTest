@@ -36,6 +36,9 @@ public class ServiceAgentFacadeImpl implements ServiceAgentFacade, Runnable, Ser
 		this.queueCall = new LinkedBlockingQueue<CallFacadeImpl>();
 	}
 	
+	/*
+	 * Waiting a call to answer for a service agent, if he finisehd call, he is available for other call
+	 * */
 	public void run() {
 		// TODO Auto-generated method stub
 		while(running) {
