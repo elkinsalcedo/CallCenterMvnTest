@@ -7,8 +7,10 @@ import org.junit.Test;
 import com.esalcedo.callcenter.core.facade.impl.DispatcherFacadeImpl;
 
 /**
- * Unit test for simple App.
+ * Unit test for CallCenter App
+ * @author esalcedo
  */
+
 public class CallCenterMvnAppTest {
 	
 	public static final Integer MAX_CALLS = 10;
