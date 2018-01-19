@@ -11,6 +11,9 @@ Simula un call center con número de llamadas y duración con diferentes tipos d
 # Ajecutar Proyecto
 mvn clean install o ejecutar el CallCenterMvnAppTest.java con  runAs Junit Test
 
+# Diagrama de clases
+![solution](./ClassDiagram.png)
+
 # Resultado de prueba
 
 All Service agents are available... waiting call !!!
