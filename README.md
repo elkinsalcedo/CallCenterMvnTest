@@ -12,7 +12,7 @@ Simula un call center con número de llamadas y duración con diferentes tipos d
 mvn clean install o ejecutar el CallCenterMvnAppTest.java con  runAs Junit Test
 
 # Diagrama de clases
-![solution](./ClassDiagram.png)
+![solution](./callcentermvn/ClassDiagram.png)
 
 # Resultado de prueba
 
